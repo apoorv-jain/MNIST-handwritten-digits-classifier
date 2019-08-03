@@ -7,3 +7,7 @@ The changes and advances to be done:-
 - Using CNNs(Convolution Neural Networks)
 
 This could give better performance for the digits drawn by the user.
+
+The files required to train and test can be downloaded from the following link:-https://www.kaggle.com/oddrationale/mnist-in-csv
+
+The number of epochs, learning rate and other properties can be changed and worked out.
